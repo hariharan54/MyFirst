@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyFirst/static/css/main.d2777c05.chunk.css",
+    "main.js": "/MyFirst/static/js/main.7ef6dcc0.chunk.js",
+    "main.js.map": "/MyFirst/static/js/main.7ef6dcc0.chunk.js.map",
+    "runtime-main.js": "/MyFirst/static/js/runtime-main.03133f7f.js",
+    "runtime-main.js.map": "/MyFirst/static/js/runtime-main.03133f7f.js.map",
+    "static/js/2.014024a2.chunk.js": "/MyFirst/static/js/2.014024a2.chunk.js",
+    "static/js/2.014024a2.chunk.js.map": "/MyFirst/static/js/2.014024a2.chunk.js.map",
+    "static/js/3.79aae04e.chunk.js": "/MyFirst/static/js/3.79aae04e.chunk.js",
+    "static/js/3.79aae04e.chunk.js.map": "/MyFirst/static/js/3.79aae04e.chunk.js.map",
+    "index.html": "/MyFirst/index.html",
+    "static/css/main.d2777c05.chunk.css.map": "/MyFirst/static/css/main.d2777c05.chunk.css.map",
+    "static/js/2.014024a2.chunk.js.LICENSE.txt": "/MyFirst/static/js/2.014024a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03133f7f.js",
+    "static/js/2.014024a2.chunk.js",
+    "static/css/main.d2777c05.chunk.css",
+    "static/js/main.7ef6dcc0.chunk.js"
+  ]
+}
